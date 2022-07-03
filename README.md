@@ -23,6 +23,11 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+
 
 <!--
 **boskein/boskein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
