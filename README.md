@@ -1,6 +1,6 @@
+Hey There :wave:
 
 <div id="header" align="center">
-  Hey There :wave:
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ixxcqdankti3wkt42g9x4h1gb1jzp1n2mi3h57er&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
