@@ -41,8 +41,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boskein&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boskein&theme=radical&locale=es)](https://git.io/streak-stats)
 
 
 <!--
