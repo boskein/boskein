@@ -12,7 +12,7 @@ Hey There :wave:
 
 ---
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú, with +4 years of experience with MERN and PERN stack (MongoDB | PostgreSQL, Express.js, React.js, and Node.js) designing and building web  applications. I am naturally disruptive to solving problems. I love devising new approaches and innovating in product development, adapting to changes and always looking for optimized solutions.
   
   - :telescope: I’m working as a Web Dev and contributing to frontend and backend for building web applications.
 
