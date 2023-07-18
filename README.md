@@ -18,7 +18,7 @@ Hey There :wave:
 
   - :seedling: Exploring Technical Content Writing.
 
-  - :zap: In my free time, I solve problems on Code Wars and read tech articles.
+  - :zap: In my free time, I solve problems on Code Wars and read fiction books.
 
   - :mailbox:How to reach me: khevinstools@gmail.com
 
