@@ -7,7 +7,7 @@ Hey There :wave:
 
 ---
 ### 👨‍💻 About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú, with +4 years of experience designing and building software. I am naturally disruptive to solving problems. I love devising new approaches and innovating in product development, adapting to changes and always looking for optimized solutions.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú, with +5 years of experience designing and building software. I am naturally disruptive to solving problems. I love devising new approaches and innovating in product development, adapting to changes and always looking for optimized solutions.
   
   - :telescope: I’m working as a CTO at a EdTech and currently learning AI, LLM's, Machine and Deep Learning.
 
