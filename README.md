@@ -1,10 +1,10 @@
-Hey There :wave:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/boskein" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+Hey There :wave:
 ---
 ### 👨‍💻 About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú, with +5 years of experience designing and building software. I love devising new approaches and innovating in product development, adapting to changes and always looking for optimized solutions.
